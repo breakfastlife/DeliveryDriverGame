@@ -10,3 +10,11 @@ Basic Deliveries for the project:
 5. Pick up packages when driving over them
 6. Deliver packages when driving over delivery spots
 7. Change car color to show status
+
+Game Design:
+1. Player Experience: Relaxing
+2. Core Mechanics: Drive over pickups
+3. Game Loop: Find and deliver all the packages to win
+
+What are in the packages?
+Wouldnt you like to know, weather boy!
